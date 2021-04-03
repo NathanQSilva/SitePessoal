@@ -201,28 +201,24 @@ EOT;
                 <a href="index.html" class="pointer-large nav-link">
                     <span class="nav-btn" data-text="home">.home</span>
                 </a>
-                <div class="mouseover-image" style="background-image: url(img/nav-hover/<!--home.png-->);"></div>
             </li><!-- Menu Box End -->
             <!-- Menu Box -->
             <li class="nav-box mouseover-image-change">
                 <a href="about.html" class="pointer-large nav-link">
                     <span class="nav-btn" data-text="about">.about</span>
                 </a>
-                <div class="mouseover-image" style="background-image: url(img/nav-hover/<!--about.png-->);"></div>
             </li><!-- Menu Box End -->
             <!-- Menu Box -->
             <li class="nav-box mouseover-image-change">
                 <a href="resume.html" class="pointer-large nav-link">
                     <span class="nav-btn" data-text="resume">.resume</span>
                 </a>
-                <div class="mouseover-image" style="background-image: url(img/nav-hover/<!--resume.png-->);"></div>
             </li><!-- Menu Box End -->
             <!-- Menu Box -->
             <li class="nav-box mouseover-image-change">
-                <a href="http://cafecomnoc.nathanqsilva.com.br/" class="pointer-large nav-link">
+                <a href="http://blog.nathanqsilva.com.br/" class="pointer-large nav-link">
                     <span class="nav-btn" data-text="blog">.blog</span>
                 </a>
-                <div class="mouseover-image" style="background-image: url(img/nav-hover/<!--blog.png-->);"></div>
             </li>
             <!-- Menu Box End -->
             <!-- Menu Box -->
@@ -256,7 +252,6 @@ EOT;
                 <a href="contact.php" class="pointer-large nav-link">
                     <span class="nav-btn active" data-text="contact">.contact</span>
                 </a>
-                <div class="mouseover-image" style="background-image: url(img/nav-hover/<!--contact.png-->);"></div>
             </li><!-- Menu Box End -->
         </ul><!-- Main Menu End -->
     </nav><!-- Menu Container End -->
