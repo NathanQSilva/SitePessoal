@@ -116,7 +116,7 @@ EOT;
                         <span><i class="fas fa-phone-alt"></i></span>
                     </div>
                     <div class="text-box">
-                        <a href="#" class="pointer-small">+55 (42) 9 8816-8668</a>
+                        <a href="#" class="pointer-small">+55 (42) 9 9937-2599</a>
                     </div>
                 </div>
                 <div class="contact-info-box">
